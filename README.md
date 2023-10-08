@@ -11,7 +11,7 @@ Data sharing isn't spooky! Open Science October is frightfully fun event to prac
 -  Take a look at the data and keep an eye out for interesting relationships. Remember, be careful about drawing conclusions about causation!
    -  Take a look at the free resource [R for Data Science](https://r4ds.hadley.nz/) if you need some help
 - **Make a data visualization!**
-- **Share** your data viz on [Twitter](https://twitter.com/ldbase_repo), [LinkedIn](https://www.linkedin.com/company/ldbase/?viewAsMember=true), or [Instagram](https://www.instagram.com/ldbaserepo/) using the hashtags **#OpenScienceOctober**, **#DataSharingIsntSpooky**, and tag LDbase **@LDbaseRepo**!
+- **Share** your data viz on [Twitter](https://twitter.com/LDbaseRepo), [LinkedIn](https://www.linkedin.com/company/ldbaserepo/?viewAsMember=true), or [Instagram](https://www.instagram.com/ldbaserepo/) using the hashtags **#OpenScienceOctober**, **#DataSharingIsntSpooky**, and tag LDbase **@LDbaseRepo**!
 
 # Winner, Winner, Chicken Dinner!
 - **$100 Amazon.com Giftcard Raffle**: For every week you submit a data viz on social media, your name will be entered in a raffle for a $100 Amazon.com giftcard.
