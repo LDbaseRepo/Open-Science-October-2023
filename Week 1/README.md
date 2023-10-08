@@ -14,11 +14,10 @@ This project offered participating preschools access to [Preschool RULER]( https
 **Link to the Codebook**: [Codebook Link](https://ldbase.org/documents/50e6e8ba-78ff-4f85-a3eb-a1e0c56ddda8)
 
 # How do I participate?
-- Create an [LDbase](ldbase.org) account or log in to an existing account to access the relevant dataset and codebook.
-- Take a look at the data and keep an eye out for interesting relationships. Remember, be careful about drawing conclusions about causation!
+-  Take a look at the data and keep an eye out for interesting relationships. Remember, be careful about drawing conclusions about causation!
    -  Take a look at the free resource [R for Data Science](https://r4ds.hadley.nz/) if you need some help
 - **Make a data visualization!**
-- **Share** your data viz on [Twitter](https://twitter.com/ldbase_repo), [LinkedIn](https://www.linkedin.com/company/ldbase/?viewAsMember=true), or [Instagram](https://www.instagram.com/ldbaserepo/) using the hashtags **#OpenScienceOctober**, **#DataSharingIsntSpooky**, and tag LDbase!
+- **Share** your data viz on [Twitter](https://twitter.com/LDbaseRepo), [LinkedIn](https://www.linkedin.com/company/ldbaserepo/?viewAsMember=true), or [Instagram](https://www.instagram.com/ldbaserepo/) using the hashtags **#OpenScienceOctober**, **#DataSharingIsntSpooky**, and tag LDbase **@LDbaseRepo**!
 
 # Citation
 *You can also access this citation from the "Get Citation" link on the sidebar of the Project page, Dataset, and Codebook!*
