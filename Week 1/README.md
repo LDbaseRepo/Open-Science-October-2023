@@ -20,5 +20,5 @@ This project offered participating preschools access to [Preschool RULER]( https
 - **Share** your data viz on [Twitter](https://twitter.com/LDbaseRepo), [LinkedIn](https://www.linkedin.com/company/ldbaserepo/?viewAsMember=true), or [Instagram](https://www.instagram.com/ldbaserepo/) using the hashtags **#OpenScienceOctober**, **#DataSharingIsntSpooky**, and tag LDbase **@LDbaseRepo**!
 
 # Citation
-*You can also access this citation from the "Get Citation" link on the sidebar of the Project page, Dataset, and Codebook!*
+*You can also access this citation from the "Get Citation" link on the sidebar of the Project page, Dataset, and Codebook!*\
 Bailey, C. S., Korucu, İrem, Eveleigh, A., Schnur, G., Costello, L., Tuttle, M., Knox-Lane, T., Cassidy, C., Ondrusek, A., McNaboe, T., Mazhar, A., & Xie, F. (2023). Preschool Social and Emotional Development Study—Connecticut Dataset (1–). LDbase. https://doi.org/10.33009/ldbase.1680213217.8ed0
