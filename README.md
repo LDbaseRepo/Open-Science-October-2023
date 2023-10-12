@@ -26,4 +26,4 @@ Data sharing isn't spooky! Open Science October is frightfully fun event to prac
 | 1             | October 9     |  [Social and Emotional Development](Week%201/README.md)|
 | 2             | October 16     |  [Dyslexia Awareness Month](Week%202/README.md) |
 | 3             | October 23     |  [Math](Week%203/README.md) |
-| 4             | October 30     |  [Dual Spanish and English Speakers](Week%204/README.md) |
+| 4             | October 30     |  [Longitudinal](Week%204/README.md) |
