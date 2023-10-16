@@ -15,9 +15,8 @@ The VoCo project was a small study of struggling readers in Grade 9. The treatme
 
 # Dataset
 **Link to the Dataset**: [Dataset Link](https://www.ldbase.org/datasets/38a9b8a2-65e3-425a-8480-5d3e94b37f45)
-
-## Note
-- Each participant is double-entered
+- **NOTE ABOUT THE DATASET**: Each participant is double-entered, but if you'd like to remove the duplicate rows in R, you can use the following code:
+   `data2 <- data[duplicated(data)==FALSE,]`
 
 # Codebook
 **Link to the Codebook**: [Codebook Link](https://www.ldbase.org/documents/bc140037-9e63-4e52-90b7-2ba33496101b)
