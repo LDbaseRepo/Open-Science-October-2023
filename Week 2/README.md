@@ -12,6 +12,7 @@ The VoCo project was a small study of struggling readers in Grade 9. The treatme
 
 ## Paper Associated with Dataset
 **Citation**: Michael Solis, Sharon Vaughn, Stephanie J. Stillman-Spisak & Eunsoo Cho (2018): Effects of Reading Comprehension and Vocabulary Intervention on Comprehension- Related Outcomes for Ninth Graders With Low Reading Comprehension, Reading & Writing Quarterly, DOI: 10.1080/10573569.2018.1499059
+**Link**: [Open Access Version of Paper](https://www.researchgate.net/publication/328773809_Effects_of_Reading_Comprehension_and_Vocabulary_Intervention_on_Comprehension-Related_Outcomes_for_Ninth_Graders_With_Low_Reading_Comprehension)
 
 # Dataset
 **Link to the Dataset**: [Dataset Link](https://www.ldbase.org/datasets/38a9b8a2-65e3-425a-8480-5d3e94b37f45)
