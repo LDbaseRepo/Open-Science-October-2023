@@ -17,7 +17,7 @@ Data sharing isn't spooky! Open Science October is frightfully fun event to prac
 - **$100 Amazon.com Giftcard Raffle**: For every week you submit a data viz on social media, your name will be entered in a raffle for a $100 Amazon.com giftcard.
     - Raffle entries are limited to 1 entry per data viz per week (max: 4)
     - The Amazon giftcard is only for United States participants, or those who have access to Amazon.com.
-- **$50 Amazon.com People's Choice Winner**: All data visualizations posted on social media by November 3 will be part of People's Choice contest on LDbase Social media. Voting will be from November 6-10 and the winner will recieve a $50 giftcard to Amazon.com.
+- **$50 Amazon.com People's Choice Winner**: All data visualizations posted on social media by November 3 will be part of People's Choice contest on LDbase Social media. Voting will be from November 7-14 and the winner will recieve a $50 giftcard to Amazon.com.
     - The Amazon giftcard is only for United States participants, or those who have access to Amazon.com.
 - **LDbase Merch for Participating**: Everyone who participates in Open Science October will be sent some LDbase merch! Participants will be reached out by the LDbase team on the Social Media platform they used for preferred mailing addresses.
 # Datasets
